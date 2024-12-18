@@ -32,7 +32,7 @@ I am a **software developer in training** and a student of **Engineering Informa
 ---
 
 ## 📫 How to Reach Me:
-- **LinkedIn**: [Jamila Palacios](https://linkedin.com/in/tuperfil)
+- **LinkedIn**: [Jamila Palacios](https://www.linkedin.com/in/jamila-isabel-palacios-miguel/)
 - **GitHub**: *You're already here!*
 
 ---
