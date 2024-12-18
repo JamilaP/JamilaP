@@ -15,9 +15,19 @@ I am a **software developer in training** and a student of **Engineering Informa
 ---
 
 ## 🚀 Some Projects I've Worked On:
-- **AgriSafe** 🌿: *AI-based application for diagnosing maize diseases.*
-- **Project Name 2**: *Short description of what the project does.*
-- **Project Name 3**: *Brief about its functionality.*
+
+- **🌿 AgriSafe**:  
+  *AI-powered mobile application designed to diagnose maize diseases using deep learning. Provides accurate identification of leaf rust and other conditions to assist farmers in crop management.*
+
+- **🎉 DJ PARTY**:  
+  *Web application for creating and managing live music rooms where DJs can stream, interact with users in real-time, and receive song votes. Includes features like chat, song voting, and music playback.*
+
+- **🎬 MOVIE APP**:  
+  *Full-stack application that allows users to browse, search, and filter movies. Includes features for viewing trailers, ratings, and personalized recommendations.*
+
+- **✅ TASK APP**:  
+  *A task management application for creating, tracking, and organizing daily to-do lists. Allows users to prioritize tasks, set deadlines, and monitor progress efficiently.*
+
 
 ---
 
